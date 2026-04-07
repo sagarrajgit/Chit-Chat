@@ -1,16 +1,24 @@
-# chatapp
+# Project Name
 
-A new Flutter project.
+Chit-Chat
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Chi-Chat created using Flutter/Dart and used firebase for user authentication, firestore for store user's data and fetching realtime data.
 
-A few resources to get you started if this is your first Flutter project:
+# Features
+- User Authentication
+- Account Creation
+- Realtime Chatting
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Libraries
+- Firebase
+- Firestore
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+<img height="450px" src="https://github.com/sagarrajgit/Chat_App/blob/main/screenshots/1.jpg" alt="Home Page" />
+<img height="450px" src="https://github.com/sagarrajgit/Chat_App/blob/main/screenshots/2.jpg" alt="Country List"/>
+<img height="450px" src="https://github.com/sagarrajgit/Chat_App/blob/main/screenshots/3.jpg" alt="Search Screen"/>
+<img height="450px" src="https://github.com/sagarrajgit/Chat_App/blob/main/screenshots/4.jpg" alt="Search Results"/>
+<img height="450px" src="https://github.com/sagarrajgit/Chat_App/blob/main/screenshots/5.jpg" alt="Web View" />
